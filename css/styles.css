@@ -39,10 +39,10 @@ body {
 .post {
     background: #fff;
     width: 1060px;
-    margin: 150px auto 50px;
-    padding: 130px 190px 50px;
+    margin: 190px auto 50px;
+    padding: 190px 90px 50px;
     position: relative;
-    box-shadow: 0 0 35px 15px rgba(255, 255, 255, .25)
+    box-shadow: 0 0 35px 15px rgba(0, 0, 0, 0)
 }
 
 .post:before {
@@ -87,7 +87,7 @@ body {
     z-index: 1;
     width: 70%;
     right: 0;
-    top: -180px;
+    top: -140px;
 }
 
 .editor__area {
@@ -99,7 +99,7 @@ body {
     padding: 15px 30px;
     background: #fbc02d;
     margin-left: 60px;
-    box-shadow: 0 0 35px 15px rgba(255, 255, 255, 0.15)
+    box-shadow: 0 0 35px 15px rgba(0, 0, 0, 0.15)
 }
 
 .editor__buttons a {
